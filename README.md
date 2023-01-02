@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Portifólio" title="Portif" src="github/construcao-1000x750.png" width="220px" />
+  <img alt="Portifólio" title="Portifólio" src="https://github.com/C4PISTRANO/Portifolio/github/construcao.png" width="220px" />
 </h1>
 
 <p align="center">
